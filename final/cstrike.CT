@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"子弹显示"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+617C10</Address>
+      <Offsets>
+        <Offset>a0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>71</ID>
+      <Description>"初始"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>154417a4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>72</ID>
+      <Description>"一级偏移+cc"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>154416D8+cc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>73</ID>
+      <Description>"武器 0634B6C8+5ec"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0634B6C8+5ec</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>74</ID>
+      <Description>"随时刷新 0634B6C8+5f0"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0634B6C8+5f0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>83</ID>
+      <Description>"每个人的枪的子弹"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+1033240</Address>
+      <Offsets>
+        <Offset>cc</Offset>
+        <Offset>5ec</Offset>
+        <Offset>7c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>85</ID>
+      <Description>"自己的枪的子弹"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>cc</Offset>
+        <Offset>5ec</Offset>
+        <Offset>7c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>278</ID>
+      <Description>"无描述"</Description>
+      <VariableType>Float</VariableType>
+      <Address>0A324D5C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>279</ID>
+      <Description>"血量+160"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>0A324BFC+160</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>282</ID>
+      <Description>"mid"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BBC2EF8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>283</ID>
+      <Description>"无描述"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BBC0048+00002EB0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>284</ID>
+      <Description>"血量"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>mp.dll+13A020</Address>
+      <Offsets>
+        <Offset>160</Offset>
+        <Offset>2EB0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>285</ID>
+      <Description>"甲+1bc"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>0A324BFC+1bc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>287</ID>
+      <Description>"无描述"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BBC2EF8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>288</ID>
+      <Description>"甲"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>mp.dll+13A020</Address>
+      <Offsets>
+        <Offset>1bc</Offset>
+        <Offset>00002EB0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>291</ID>
+      <Description>"无描述"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>1B0</Offset>
+        <Offset>7c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>292</ID>
+      <Description>"子弹显示"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+617C10</Address>
+      <Offsets>
+        <Offset>a0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>293</ID>
+      <Description>"初始"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>154417a4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>294</ID>
+      <Description>"一级偏移+cc"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>154416D8+cc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>295</ID>
+      <Description>"武器 0634B6C8+5ec"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0634B6C8+5ec</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>296</ID>
+      <Description>"随时刷新 0634B6C8+5f0"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0634B6C8+5f0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>297</ID>
+      <Description>"每个人的枪的子弹"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+1033240</Address>
+      <Offsets>
+        <Offset>cc</Offset>
+        <Offset>5ec</Offset>
+        <Offset>7c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>298</ID>
+      <Description>"自己的枪的子弹"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>cc</Offset>
+        <Offset>5ec</Offset>
+        <Offset>7c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>299</ID>
+      <Description>"无描述"</Description>
+      <VariableType>Float</VariableType>
+      <Address>0A324D5C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>300</ID>
+      <Description>"血量+160"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>0A324BFC+160</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>301</ID>
+      <Description>"mid"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BBC2EF8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>302</ID>
+      <Description>"无描述"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BBC0048+00002EB0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>303</ID>
+      <Description>"血量"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>mp.dll+13A020</Address>
+      <Offsets>
+        <Offset>160</Offset>
+        <Offset>2EB0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>304</ID>
+      <Description>"甲+1bc"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>0A324BFC+1bc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>305</ID>
+      <Description>"无描述"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BBC2EF8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>306</ID>
+      <Description>"甲"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>mp.dll+13A020</Address>
+      <Offsets>
+        <Offset>1bc</Offset>
+        <Offset>00002EB0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>307</ID>
+      <Description>"僵值"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>1B0</Offset>
+        <Offset>7c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>308</ID>
+      <Description>"无描述"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BDDD990</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>309</ID>
+      <Description>"无描述"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1BDDD5D0+3c0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>317</ID>
+      <Description>"购物"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>3C0</Offset>
+        <Offset>7c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>318</ID>
+      <Description>"无描述"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>059E36FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>319</ID>
+      <Description>"无描述"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>059E3530+1cc</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>321</ID>
+      <Description>"无描述"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0A41EBF8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>322</ID>
+      <Description>"无描述"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0A41EB7C+7c</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>323</ID>
+      <Description>"无描述"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>324</ID>
+      <Description>"自己的金钱"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+11069BC</Address>
+      <Offsets>
+        <Offset>1cc</Offset>
+        <Offset>7c</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>325</ID>
+      <Description>"显示金钱"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+61B9FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>326</ID>
+      <Description>"是否是敌人 敌人为2 友军为1"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>cstrike.exe+61B82C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>327</ID>
+      <Description>"视角"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0A446E40</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>328</ID>
+      <Description>"视角"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>mp.dll+13A020</Address>
+      <Offsets>
+        <Offset>244</Offset>
+        <Offset>2eb0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>329</ID>
+      <Description>"无描述"</Description>
+      <VariableType>Float</VariableType>
+      <Address>0A4476C8</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry Color="20000000">
+      <Description>替换了 mov [ebp+000001B0],3F000000</Description>
+      <AddressString>mp.dll+8FBC8</AddressString>
+      <Before>
+        <Byte>EB</Byte>
+        <Byte>4B</Byte>
+        <Byte>83</Byte>
+        <Byte>FE</Byte>
+        <Byte>01</Byte>
+      </Before>
+      <Actual>
+        <Byte>C7</Byte>
+        <Byte>85</Byte>
+        <Byte>B0</Byte>
+        <Byte>01</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>3F</Byte>
+      </Actual>
+      <After>
+        <Byte>75</Byte>
+        <Byte>17</Byte>
+        <Byte>D9</Byte>
+        <Byte>44</Byte>
+        <Byte>24</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="80000008">
+      <Description>替换了 mov [eax+000003DC],00000100</Description>
+      <AddressString>mp.dll+2777</AddressString>
+      <Before>
+        <Byte>86</Byte>
+        <Byte>A4</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>C7</Byte>
+        <Byte>80</Byte>
+        <Byte>DC</Byte>
+        <Byte>03</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>01</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>0D</Byte>
+        <Byte>1C</Byte>
+        <Byte>A7</Byte>
+        <Byte>4D</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="80000008">
+      <Description>替换了 inc ebp</Description>
+      <AddressString>mp.dll+1476</AddressString>
+      <Before>
+        <Byte>EC</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>01</Byte>
+      </Before>
+      <Actual>
+        <Byte>45</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>C5</Byte>
+        <Byte>89</Byte>
+        <Byte>AE</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="80000008">
+      <Description>替换了 fsub dword ptr [esp+54]</Description>
+      <AddressString>mp.dll+66F01</AddressString>
+      <Before>
+        <Byte>80</Byte>
+        <Byte>60</Byte>
+        <Byte>01</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>D8</Byte>
+        <Byte>64</Byte>
+        <Byte>24</Byte>
+        <Byte>54</Byte>
+      </Actual>
+      <After>
+        <Byte>D9</Byte>
+        <Byte>98</Byte>
+        <Byte>60</Byte>
+        <Byte>01</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>
